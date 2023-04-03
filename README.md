@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mahdinoori2389@gmail.com**
 
-- ⚡ Fun fact **Coding is fun for me !**
+- ⚡ Fun fact **I love painting !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
