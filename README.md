@@ -31,8 +31,12 @@
     <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdinoori2000&show_icons=true&locale=en&layout=compact" alt="mahdinoori2000" /></p>
+</br>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdinoori2000&show_icons=true&locale=en" alt="mahdinoori2000" /></p>
+<a href="https://github.com/mahdinoori2000?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mahdinoori2000&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/mahdinoori2000?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahdinoori2000&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdinoori2000&" alt="mahdinoori2000" /></p>
+</p>
+
+
