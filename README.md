@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/@mahdinoori2000" target="blank"><img src="https://img.shields.io/twitter/follow/mahdinoori2000?logo=twitter&style=for-the-badge" alt="@mahdinoori2000" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **CSS and JavaScript**
 
 - 📫 How to reach me **mahdinoori2389@gmail.com**
 
-- ⚡ Fun fact **I love painting !**
+- ⚡ Fun fact **I love playing football !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
