@@ -7,6 +7,8 @@
  
 - 🌱 I’m currently learning **SQL**
 
+- 💻 I’m currently working on **Rest Countries** project 
+
 - 💬 Ask me about **React and JavaScript**
 
 - 📫 How to reach me **mahdinoori2389@gmail.com**
