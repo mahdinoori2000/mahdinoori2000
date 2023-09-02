@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/@mahdinoori2000" target="blank"><img src="https://img.shields.io/twitter/follow/mahdinoori2000?logo=twitter&style=for-the-badge" alt="@mahdinoori2000" /></a> </p>
  
 - 🌱 I’m currently learning **SQL**
-
+ 
 - 💻 I’m currently working on **Rest Countries** project 
 
 - 💬 Ask me about **React and JavaScript**
