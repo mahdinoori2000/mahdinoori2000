@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning **SQL**
  
-- 💻 I’m currently working on **Rest Countries** project 
+- 💻 I’m currently working on **Travel Hive** project 
 
 - 💬 Ask me about **React and JavaScript**
 
