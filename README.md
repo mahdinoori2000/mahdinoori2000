@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Afghanistan</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
     
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdino ori2000&label=Profile%20views&color=0e75b6&style=flat" alt="mahdinoori2000" /> </p>
                        
 <p align="left"> <a href="https://twitter.com/@mahdinoori2000" target="blank"><img src="https://img.shields.io/twitter/follow/mahdinoori2000?logo=twitter&style=for-the-badge" alt="@mahdinoori2000" /></a> </p>       
