@@ -9,7 +9,7 @@
                                         
 - 🌱 I’m currently learning **Ruby on Rails**             
         
-- 💻 I’m currently working on **Travel Hive** project  
+- 💻 I’m currently working on **Travel Hive** project   
 
 - 💬 Ask me about **React and JavaScript**
 
