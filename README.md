@@ -87,50 +87,6 @@
   </td>
   
 </tr>
-</table>
-<br />
-
-
-### Frontend:
-<table >
-<tr>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
-    <br>React
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="PostgreSQL" />
-    <br>Next
-  </td>
-
-   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="PostgreSQL" />
-    <br>Redux
-  </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-    <br>Tailwind
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="HTML5" />
-    <br>Bootstrap
-  </td>
-
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-    <br>Sass
-  </td>
-  
-</tr>
-</table>
-<br />
-
-### Backend
-<table>
 <tr>
  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Sass" />
@@ -147,11 +103,6 @@
     <br>Jest
   </td>
 </tr>
-</table>
-<br />
-
-### Database
-<table>
 <tr>
    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Sass" />
@@ -166,12 +117,6 @@
     <br>MongoDB
   </td>
 </tr>
-</table>
-<br />
-
-
-### Cloud & Hosting:
-<table>
 <tr>
      <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
@@ -182,12 +127,6 @@
     <br>Netlify
   </td>
 </tr>
-</table>
-<br />
-
-
-### Version Control & CI/CD
-<table>
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Sass" />
@@ -198,12 +137,6 @@
     <br>GitHub
   </td>
 </tr>
-</table>
-<br />
-
-
-### Preferred IDEs & Tools :
-<table>
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="PostgreSQL" />
