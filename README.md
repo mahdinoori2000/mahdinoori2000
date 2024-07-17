@@ -27,9 +27,10 @@
 
 ## Knowledge Base
 
+# Languages
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-// SECOND TR LANGUES //
+
 <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
@@ -55,7 +56,12 @@
     <br>Ruby
   </td>
 </tr>
-// SECOND TR FRONT-END //
+</table>
+</div>
+<br />
+#Frontend
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
@@ -89,10 +95,14 @@
   </td>
   
 </tr>
-// 3 TR BACKEND //
+</table>
+</div>
+<br />
+
+# Backend
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 <tr>
-
-
  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Sass" />
     <br>Ruby on Rails
@@ -107,10 +117,14 @@
     <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Sass" />
     <br>Jest
   </td>
-
-
 </tr>
-// SECOND TR DATABAES //
+</table>
+</div>
+<br />
+
+#Database
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 <tr>
    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Sass" />
@@ -125,7 +139,14 @@
     <br>MongoDB
   </td>
 </tr>
-// SECOND TR CLOUD AND HOSTING //
+</table>
+</div>
+<br />
+
+
+# Cloud & Hosting:
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 <tr>
      <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
@@ -136,7 +157,14 @@
     <br>Netlify
   </td>
 </tr>
-// SECOND TR VERSION CONTROL //
+</table>
+</div>
+<br />
+
+
+# Version Control & CI/CD
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Sass" />
@@ -147,7 +175,14 @@
     <br>GitHub
   </td>
 </tr>
-// SECOND TR TOOLS //
+</table>
+</div>
+<br />
+
+
+# Preferred IDEs & Tools :
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="PostgreSQL" />
