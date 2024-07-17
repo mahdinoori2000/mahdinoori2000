@@ -29,7 +29,7 @@
 
 ### Languages
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="left">
+<table align="left" style="display: block">
 
 <tr>
     <td align="center" width="96">
@@ -62,7 +62,7 @@
 
 ### Frontend
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="left">
+<table align="left" style="display: block">
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
