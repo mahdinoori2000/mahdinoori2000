@@ -29,131 +29,11 @@
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-
-<tr>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    <br>React
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJs" />
-    <br>NextJs
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-    <br>Nodejs
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJs" />
-    <br>NestJs
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <br>TypeScript
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <br>JavaScript
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-    <br>RTK
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-    <br>MongoDB
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-    <br>PostgreSQL
-  </td>
-</tr>
-
+// SECOND TR LANGUES //
 <tr>
     <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="PostgreSQL" />
-    <br>Express
-  </td>
-      <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="PostgreSQL" />
-    <br>Jest
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="PostgreSQL" />
-    <br>Prisma
-  </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-    <br>Tailwind
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-    <br>HTML5
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-    <br>CSS
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-    <br>Sass
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-    <br>Github
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-    <br>Git
-  </td>
-
-</tr>
-
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="PostgreSQL" />
-    <br>Postman
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
-    <br>Webpack
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-    <br>VsCode
-  </td> 
-</tr>
-
-</table>
-</div>
-<br />
-
-# Languages
-
-<div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-
-<tr>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <br>TypeScript
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
   </td>
 
   <td align="center" width="96">
@@ -175,11 +55,11 @@
     <br>Ruby
   </td>
 </tr>
-
+// SECOND TR FRONT-END //
 <tr>
     <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="PostgreSQL" />
-    <br>Express
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
+    <br>React
   </td>
       <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="PostgreSQL" />
@@ -187,8 +67,13 @@
   </td>
 
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="PostgreSQL" />
-    <br>Prisma
+    <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="PostgreSQL" />
+    <br>Next
+  </td>
+
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="PostgreSQL" />
+    <br>Redux
   </td>
   
   <td align="center" width="96">
@@ -196,37 +81,58 @@
     <br>Tailwind
   </td>
 
-  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="HTML5" />
+    <br>Bootstrap
+  </td>
+
 
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
     <br>Sass
   </td>
+  
+</tr>
+// 3 TR BACKEND //
+<tr>
 
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-    <br>Github
+
+ <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ruby-on-rails" width="48" height="48" alt="Sass" />
+    <br>Ruby on Rails
+  </td>
+  
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Sass" />
+    <br>Express
   </td>
 
-  <td align="center" width="96">
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-    <br>Git
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Sass" />
+    <br>Jest
   </td>
+
 
 </tr>
-
+// SECOND TR DATABAES //
 <tr>
-  <td align="center" width="96">
+  
+</tr>
+// SECOND TR CLOUD AND HOSTING //
+<tr>
+  
+</tr>
+// SECOND TR VERSION CONTROL //
+<tr>
+  
+</tr>
+// SECOND TR TOOLS //
+<tr>
+    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="PostgreSQL" />
     <br>Postman
   </td>
-
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
-    <br>Webpack
-  </td>
-
-  <td align="center" width="96">
+    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
     <br>VsCode
   </td> 
@@ -234,19 +140,6 @@
 
 </table>
 </div>
-
-<br>
-# Frontend
-<br>
-# Backend
-<br>
-# Database
-<br>
-# Cloud and Hosting
-<br>
-# Version Control & CI/CD
-<br>
-# Preferred IDEs & Tools
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
