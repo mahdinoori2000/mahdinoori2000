@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mahdi Noori</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=A+Passionate+Developer+from+Afghanistan!+🚀)](https://git.io/typing-svg)
+<h3 align="left">A passionate Developer from Afghanistan</h3>
 <br /> <br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
              
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahdinoori2389@gmail.com**
 
-
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mahdinoori2000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahdinoori2000" height="30" width="40" /></a>
