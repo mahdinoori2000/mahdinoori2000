@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mahdi Noori</h1>
 <h3 align="left">A passionate web developer from Afghanistan</h3> 
+<br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
              
         
