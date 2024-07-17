@@ -59,7 +59,6 @@
 </table>
 </div>
 <br />
-<div style="display: block"></div>
 
 ### Frontend
 <div style="display: flex; align-items: flex-start; align: center">
@@ -101,7 +100,7 @@
 </div>
 <br />
 
-# Backend
+### Backend
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
 <tr>
@@ -124,7 +123,7 @@
 </div>
 <br />
 
-#Database
+### Database
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
 <tr>
@@ -146,7 +145,7 @@
 <br />
 
 
-# Cloud & Hosting:
+### Cloud & Hosting:
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
 <tr>
@@ -164,7 +163,7 @@
 <br />
 
 
-# Version Control & CI/CD
+### Version Control & CI/CD
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
 <tr>
@@ -182,7 +181,7 @@
 <br />
 
 
-# Preferred IDEs & Tools :
+### Preferred IDEs & Tools :
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
 <tr>
