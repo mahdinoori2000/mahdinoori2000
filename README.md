@@ -29,7 +29,7 @@
 
 ### Languages
 <div style="display: flex; align-items: flex-start; align: center; width: 100%">
-<table align="left" style="display: block">
+<table align="left" style="display: block; width: 100%">
 
 <tr>
     <td align="center" width="96">
