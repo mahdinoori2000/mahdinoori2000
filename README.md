@@ -115,6 +115,9 @@
 </tr>
 <tr>
    <td align="center" width="96">
+  <p>Databaes:</p>
+  </td>
+   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Sass" />
     <br>MySQL
   </td>
