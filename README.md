@@ -27,10 +27,8 @@
 
 # Knowledge Base
 
-### Languages
-<div>
+### Languages:
 <table>
-
 <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
@@ -57,12 +55,10 @@
   </td>
 </tr>
 </table>
-</div>
 <br />
 
 
-<h3 align="left" >Frontend:</h3>
-<div>
+### Frontend:
 <table >
 <tr>
     <td align="center" width="96">
@@ -98,12 +94,10 @@
   
 </tr>
 </table>
-</div>
 <br />
 
 ### Backend
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
 <tr>
  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Sass" />
@@ -121,12 +115,10 @@
   </td>
 </tr>
 </table>
-</div>
 <br />
 
 ### Database
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
 <tr>
    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Sass" />
@@ -142,13 +134,11 @@
   </td>
 </tr>
 </table>
-</div>
 <br />
 
 
 ### Cloud & Hosting:
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
 <tr>
      <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
@@ -160,13 +150,11 @@
   </td>
 </tr>
 </table>
-</div>
 <br />
 
 
 ### Version Control & CI/CD
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Sass" />
@@ -178,13 +166,11 @@
   </td>
 </tr>
 </table>
-</div>
 <br />
 
 
 ### Preferred IDEs & Tools :
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="PostgreSQL" />
@@ -197,7 +183,6 @@
 </tr>
 
 </table>
-</div>
 <br><br>
 
 <p align="center">
