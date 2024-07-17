@@ -54,6 +54,39 @@
     <br>Ruby
   </td>
 </tr>
+<tr>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
+    <br>React
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="PostgreSQL" />
+    <br>Next
+  </td>
+
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="PostgreSQL" />
+    <br>Redux
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+    <br>Tailwind
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="HTML5" />
+    <br>Bootstrap
+  </td>
+
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+    <br>Sass
+  </td>
+  
+</tr>
 </table>
 <br />
 
