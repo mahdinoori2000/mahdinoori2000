@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mahdi Noori</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=A+Passionate+Developer+from+Afghanistan!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=🌟+Welcome+to+my+coding+universe!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=A+Passionate+Developer+from+Afghanistan!+🚀)](https://git.io/typing-svg)
 <br /> <br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
              
