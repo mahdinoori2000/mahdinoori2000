@@ -32,7 +32,7 @@
 <tr>
      <td align="center" width="96">
      
-  <p>Languages</p>
+  <p>Languages:</p>
   </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
@@ -59,6 +59,9 @@
   </td>
 </tr>
 <tr>
+  <td align="center" width="96">
+  <p>Frontend:</p>
+  </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
     <br>React
@@ -92,6 +95,9 @@
   
 </tr>
 <tr>
+  <td align="center" width="96">
+  <p>Backend:</p>
+  </td>
  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Sass" />
     <br>Ruby on Rails
@@ -122,6 +128,9 @@
   </td>
 </tr>
 <tr>
+  <td align="center" width="96">
+  <p>Cloud & Hosting:</p>
+  </td>
      <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
     <br>Vercel
@@ -132,6 +141,9 @@
   </td>
 </tr>
 <tr>
+  <td align="center" width="96">
+  <p>Version Control & CI/CD:</p>
+  </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Sass" />
     <br>Git
@@ -142,6 +154,9 @@
   </td>
 </tr>
 <tr>
+   <td align="center" width="96">
+  <p>Preferred IDEs & Tools:</p>
+  </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="PostgreSQL" />
     <br>Postman
