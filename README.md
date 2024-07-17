@@ -60,7 +60,8 @@
 </div>
 <br />
 
-### Frontend
+
+<h3 align="left" style="display: block">Frontend:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="left" style="display: block">
 <tr>
