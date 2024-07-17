@@ -28,8 +28,8 @@
 # Knowledge Base
 
 ### Languages
-<div style="display: flex; align-items: flex-start; align: center; width: 100%">
-<table align="left" style="display: block; width: 100%">
+<div>
+<table>
 
 <tr>
     <td align="center" width="96">
@@ -61,9 +61,9 @@
 <br />
 
 
-<h3 align="left" style="display: block; width:100%">Frontend:</h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="left" style="display: block">
+<h3 align="left" >Frontend:</h3>
+<div>
+<table >
 <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
