@@ -4,15 +4,14 @@
              
         
                                         
-- 🌱 I’m currently learning **Ruby on Rails**             
+- 🌱 I’m currently learning **Node.js**             
         
-- 💻 I’m currently working on **Travel Hive** project   
+- 💻 I’m currently working on **ToloX** project   
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **mahdinoori2389@gmail.com**
- 
-- ⚡ Fun fact **I love playing football !**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,13 +23,8 @@
 
 # Knowledge Base
 
-### Languages:
 <table>
 <tr>
-     <td align="center" width="96">
-     
-  <p>Languages:</p>
-  </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
       <br>TypeScript
@@ -50,14 +44,10 @@
     <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
     <br>CSS
   </td>
+  
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=ruby" width="50" height="50" alt="CSS" />
     <br>Ruby
-  </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-  <p>Frontend:</p>
   </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
@@ -78,23 +68,18 @@
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
     <br>Tailwind
   </td>
-
+</tr>
+<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="HTML5" />
     <br>Bootstrap
   </td>
-
 
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
     <br>Sass
   </td>
   
-</tr>
-<tr>
-  <td align="center" width="96">
-  <p>Backend:</p>
-  </td>
  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Sass" />
     <br>Ruby on Rails
@@ -109,11 +94,6 @@
     <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Sass" />
     <br>Jest
   </td>
-</tr>
-<tr>
-   <td align="center" width="96">
-  <p>Databaes:</p>
-  </td>
    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Sass" />
     <br>MySQL
@@ -126,23 +106,15 @@
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Sass" />
     <br>MongoDB
   </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-  <p>Cloud & Hosting:</p>
-  </td>
      <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
     <br>Vercel
   </td>
+  </tr>
+  <tr>
    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Sass" />
     <br>Netlify
-  </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-  <p>Version Control & CI/CD:</p>
   </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Sass" />
@@ -151,11 +123,6 @@
    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Sass" />
     <br>GitHub
-  </td>
-</tr>
-<tr>
-   <td align="center" width="96">
-  <p>Preferred IDEs & Tools:</p>
   </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="PostgreSQL" />
