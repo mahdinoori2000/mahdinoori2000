@@ -61,10 +61,6 @@
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="PostgreSQL" />
     <br>React
   </td>
-      <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="PostgreSQL" />
-    <br>Jest
-  </td>
 
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="PostgreSQL" />
@@ -98,7 +94,7 @@
 
 
  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ruby-on-rails" width="48" height="48" alt="Sass" />
+    <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Sass" />
     <br>Ruby on Rails
   </td>
   
@@ -116,15 +112,40 @@
 </tr>
 // SECOND TR DATABAES //
 <tr>
-  
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Sass" />
+    <br>MySQL
+  </td>
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Sass" />
+    <br>PostgreSQL
+  </td>
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Sass" />
+    <br>MongoDB
+  </td>
 </tr>
 // SECOND TR CLOUD AND HOSTING //
 <tr>
-  
+     <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
+    <br>Vercel
+  </td>
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Sass" />
+    <br>Netlify
+  </td>
 </tr>
 // SECOND TR VERSION CONTROL //
 <tr>
-  
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Sass" />
+    <br>Git
+  </td>
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Sass" />
+    <br>GitHub
+  </td>
 </tr>
 // SECOND TR TOOLS //
 <tr>
@@ -142,22 +163,6 @@
 </div>
 <br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<div>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-    <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-   
-</div>
-
-</br>
 <p align="center">
 
 <a href="https://github.com/mahdinoori2000?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mahdinoori2000&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
