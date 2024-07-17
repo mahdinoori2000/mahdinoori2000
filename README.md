@@ -25,7 +25,7 @@
 <a href="https://www.hackerrank.com/profile/mahdinoori23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mahdinoori2000" height="30" width="40" /></a>
 </p>
 
-## My Coding Skills
+## Knowledge Base
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -142,6 +142,20 @@
 </tr>
 
 </table>
+
+# Languages
+<br>
+# Frontend
+<br>
+# Backend
+<br>
+# Database
+<br>
+# Cloud and Hosting
+<br>
+# Version Control & CI/CD
+<br>
+# Preferred IDEs & Tools
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
