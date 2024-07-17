@@ -30,6 +30,10 @@
 ### Languages:
 <table>
 <tr>
+     <td align="center" width="96">
+     
+      <br>Languages
+  </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
       <br>TypeScript
