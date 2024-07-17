@@ -28,7 +28,7 @@
 # Knowledge Base
 
 ### Languages
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: center; width: 100%">
 <table align="left" style="display: block">
 
 <tr>
