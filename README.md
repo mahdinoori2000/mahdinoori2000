@@ -142,8 +142,9 @@
 </tr>
 
 </table>
-
+</div>
 # Languages
+
 <br>
 # Frontend
 <br>
