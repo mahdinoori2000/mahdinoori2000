@@ -32,26 +32,26 @@
 // SECOND TR LANGUES //
 <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
       <br>TypeScript
   </td>
 
   <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
     <br>JavaScript
   </td>
   
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
     <br>HTML5
   </td>
 
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
     <br>CSS
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=ruby" width="50" height="50" alt="CSS" />
     <br>Ruby
   </td>
 </tr>
