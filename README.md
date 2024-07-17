@@ -23,7 +23,6 @@
 </p>
 
 <br /> <br /> <br /> <br />
-<br />
 # Knowledge Base
 
 <table>
