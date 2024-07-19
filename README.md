@@ -17,10 +17,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mahdinoori2000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahdinoori2000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahdi-noori-hc201" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-noori-hc201" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mahdi-noori-hc201](https://www.linkedin.com/in/mahdinoori23/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-noori-hc201" height="30" width="40" /></a>
 <a href="https://instagram.com/mahdinoori_201" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdinoori_201" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/mahdinoori23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mahdinoori2000" height="30" width="40" /></a>
 </p>
+
 
 <br /> <br /> <br /> <br />
 # Knowledge Base
