@@ -29,12 +29,12 @@
 <table>
 <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="54" />
       <br>TypeScript
   </td>
 
   <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="54" />
     <br>JavaScript
   </td>
   
