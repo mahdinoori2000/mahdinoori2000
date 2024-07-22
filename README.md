@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Developer from Afghanistan</h3>
 <br /> <br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
-             
+              
         
 <br />
 - 🌱 I’m currently learning **Node.js**             
