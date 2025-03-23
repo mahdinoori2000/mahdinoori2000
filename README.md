@@ -85,7 +85,7 @@
   
    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=less" width="48" height="48" alt="Sass" />
-    <br>Ruby on Rails
+    <br>LESS
   </td>
   
  <td align="center" width="96">
@@ -113,11 +113,8 @@
    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Sass" />
     <br>MongoDB
-  </td>
-     <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
-    <br>Vercel
-  </td>
+
+     
   </tr>
   <tr>
    <td align="center" width="96">
@@ -140,6 +137,11 @@
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
     <br>VsCode
   </td> 
+     </td>
+     <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Sass" />
+    <br>Vercel
+  </td>
 </tr>
 
 </table>
