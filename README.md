@@ -83,6 +83,11 @@
     <br>Sass
   </td>
   
+   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=less" width="48" height="48" alt="Sass" />
+    <br>Ruby on Rails
+  </td>
+  
  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Sass" />
     <br>Ruby on Rails
